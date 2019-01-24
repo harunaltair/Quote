@@ -1,6 +1,7 @@
 # quote
 tugas akhir mobile app
-beberapa paket yg perlu di install
+beberapa paket yg perlu di install :
+
 1. npm i asap (jika asap error)
 2. npm i linking (wajib)
 3. npm i react-native-elements (wajib)
