@@ -4,7 +4,7 @@ beberapa paket yg perlu di install :
 
 1. npm i asap (jika asap error)
 2. npm i linking (wajib)
-3. npm i react-native-elements (wajib)
+3. npm i react-native-elements (tidak wajib, install jika error react-native-elements )
 4. npm i react-native-gesture-handler (jika error, soalnya diprojeksaya butuh ini biar ga error)
 5. npm i react-navigation (jika error, ga dipake sih sebenernya, ga jadi pake ini)
 
